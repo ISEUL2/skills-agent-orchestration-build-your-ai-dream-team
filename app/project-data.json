@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Atlas Migration",
+      "owner": "Mona",
+      "status": "On Track",
+      "recentActivity": "Completed API integration testing",
+      "priority": "High"
+    },
+    {
+      "name": "Insight Hub",
+      "owner": "Jordan",
+      "status": "At Risk",
+      "recentActivity": "Design review identified accessibility fixes",
+      "priority": "Critical"
+    },
+    {
+      "name": "Launchpad",
+      "owner": "Priya",
+      "status": "In Progress",
+      "recentActivity": "Beta feedback is being incorporated",
+      "priority": "Medium"
+    }
+  ]
+}
